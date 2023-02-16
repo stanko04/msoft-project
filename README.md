@@ -15,5 +15,5 @@
 - Algebraic specification 
 
 
-##[EA Project]()
-##[Documentation of the project]()
+## [EA Project](ea_project.qea)
+## [Documentation of the project](documentation.pdf)
